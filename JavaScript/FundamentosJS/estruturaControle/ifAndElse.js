@@ -6,4 +6,5 @@ const imprimitResultado = function(nota) {
     }
 }
 
-imprimitResultado(6)
+// imprimitResultado(6)
+
